@@ -1,1 +1,1 @@
-# JavaImageProcessing
+# Image Processing in Java
